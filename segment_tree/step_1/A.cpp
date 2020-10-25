@@ -1,3 +1,5 @@
+//credits: paksha
+
 //In this task, you need to write a regular segment tree for the sum.
 #include <bits/stdc++.h>
 using namespace std;
